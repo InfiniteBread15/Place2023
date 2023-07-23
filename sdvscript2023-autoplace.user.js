@@ -15,7 +15,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-const SCRIPT_LOCATION = 'https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw ';
+const SCRIPT_LOCATION = 'https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw';
 const UPDATE_CHECK_INTERVAL = 10 * 60 * 1000;
 
 (function () {

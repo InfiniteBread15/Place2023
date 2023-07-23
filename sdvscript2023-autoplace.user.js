@@ -8,14 +8,14 @@
 // @match        https://new.reddit.com/r/place/*
 // @connect      reddit.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw 
-// @downloadURL  https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw 
+// @updateURL    https://github.com/InfiniteBread15/Place2023/blob/main/sdvindiestackplace2023.user.js
+// @downloadURL  https://github.com/InfiniteBread15/Place2023/blob/main/sdvindiestackplace2023.user.js 
 // @grant        GM.xmlHttpRequest
 // @connect      github.com
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-const SCRIPT_LOCATION = 'https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw';
+const SCRIPT_LOCATION = 'https://github.com/InfiniteBread15/Place2023/blob/main/sdvindiestackplace2023.user.js';
 const UPDATE_CHECK_INTERVAL = 10 * 60 * 1000;
 
 (function () {

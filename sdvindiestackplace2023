@@ -1,15 +1,20 @@
 {
-  "contact": "https://discord.gg/infinitebread0912",
+  "contact": "https://discord.gg/38DGdydTFb",
   "templates": [
     {
-      "name": "r/stardewvalley traveling cart",
+      "name": "Indie Alliance V2",
       "sources": [
-        "https://media.discordapp.net/attachments/1131634812176830514/1131792941988454471/cart.png"
+        "https://cdn.discordapp.com/attachments/1132182085990371442/1132183806682603550/New_Expansion.png"
       ],
-      "x": 529,
-      "y": 864
+      "x": 679,
+      "y": 1457
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
   "blacklist": []
 }

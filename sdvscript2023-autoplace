@@ -8,14 +8,14 @@
 // @match        https://new.reddit.com/r/place/*
 // @connect      reddit.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://gist.github.com/InfiniteBread15/1d8381896db31307ff9e32ca8f551a0a/raw
-// @downloadURL  https://gist.github.com/InfiniteBread15/1d8381896db31307ff9e32ca8f551a0a/raw
+// @updateURL    https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw 
+// @downloadURL  https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw 
 // @grant        GM.xmlHttpRequest
 // @connect      github.com
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-const SCRIPT_LOCATION = 'https://gist.github.com/InfiniteBread15/1d8381896db31307ff9e32ca8f551a0a/raw';
+const SCRIPT_LOCATION = 'https://gist.github.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw ';
 const UPDATE_CHECK_INTERVAL = 10 * 60 * 1000;
 
 (function () {
